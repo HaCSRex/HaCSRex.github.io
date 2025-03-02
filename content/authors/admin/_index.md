@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University Medical Center of the Johannes Gutenberg University Mainz 
+    url: https://www.unimedizin-mainz.de/imbei/biometrie-genomische-statistik-und-bioinformatik/mitarbeiter/chung-shing-rex-ha.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
