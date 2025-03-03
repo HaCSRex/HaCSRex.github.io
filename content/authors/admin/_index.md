@@ -56,7 +56,7 @@ education:
   - area: MSc Biostatistics
     institution: LMU Munich
     date_start: 2016-10-01
-    date_end: 2019-07-30
+    date_end: 2019-09-30
     summary: |
        
     button:
