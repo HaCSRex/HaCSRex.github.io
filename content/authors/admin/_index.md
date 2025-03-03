@@ -47,10 +47,10 @@ profiles:
     url: https://orcid.org/0000-0001-5238-0963
 
 interests:
-  - Artificial Intelligence
   - Biostatistics
   - Bayesian Statistics
   - Statistical Modelling
+  - Artificial Intelligence
 
 education:
   - area: MSc Biostatistics
