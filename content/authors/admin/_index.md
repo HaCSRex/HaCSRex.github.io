@@ -36,7 +36,7 @@ profiles:
   - icon: brands/bluesky
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/rex.ha
   - icon: brands/github
     url: https://github.com/HaCSRex
   - icon: brands/linkedin
