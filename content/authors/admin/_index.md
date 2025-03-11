@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 夏頌誠
+title: Chung Shing Rex Ha
 
 # Name pronunciation (optional)
-name_pronunciation: Ha Chung Shing
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Chung Shing Rex
@@ -168,3 +168,4 @@ awards:
 ## About Me
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm Ha Chung Shing, a research associate at the University Medical Center, Johannes Gutenberg University Mainz. I am interested in biostatistics, Bayesian statistics, statistical modelling, and artificial intelligence. I have a MSc in Biostatistics from LMU Munich and a BSc in Investment Science from The Hong Kong Polytechnic University. I have worked as a research associate at X and Y. I am proficient in R, data science, and SQL. In my free time, I enjoy dancing, playing badminton, and cooking. I am fluent in Chinese - Cantonese and English, and I am learning German. I have completed courses in neural networks and deep learning, blockchain fundamentals, and object-oriented programming in R.
