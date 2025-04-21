@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/profiles/profile1.JPG"
+title: "Chung Shing Rex Ha"
+description-meta: "Chung Shing Rex Ha's personal website"
+image: "files/profiles/profile1.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -13,35 +13,21 @@ about:
   image-width: 70%
   links:
     - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
+      text: IMBEI
+      href: https://www.unimedizin-mainz.de/imbei/biometrie-genomische-statistik-und-bioinformatik/mitarbeiter/chung-shing-rex-ha.html
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:hachungshingrex@gmail.com    
     - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      text: hacsrex
+      href: https://www.linkedin.com/in/hacsrex/
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
+      href: https://orcid.org/0000-0001-5238-0963
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://scholar.google.de/citations?user=Pcv1bHEAAAAJ&hl=de&authuser=1
       target: _blank
 #    - text: "{{< ai researchgate >}} Research Gate"
 #      href: https://www.researchgate.net
