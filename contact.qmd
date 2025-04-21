@@ -6,8 +6,6 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
-
 University Medical Center Mainz
 
 Address: Room 12, 21. Floor, 21. Etage, Rhabanusstrasse 3/Tower A, 55118 Mainz 
