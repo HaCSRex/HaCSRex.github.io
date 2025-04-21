@@ -8,17 +8,13 @@ title-block-banner: false
 
 **Quarto Academic**
 
-School
+University Medical Center Mainz
 
-College
+Address: Room 12, 21. Floor, 21. Etage, Rhabanusstrasse 3/Tower A, 55118 Mainz 
 
-University
+Phone: (+49) 06131 17-6711
 
-Address: 
-
-Phone: 
-
-E-mail: 
+E-mail: chungshingrex.ha@uni-mainz.de / hachungshingrex@gmail.com
 
 
 </center>
